@@ -7,4 +7,3 @@ var Grub = function() {
 Grub.prototype.eat = function() {
   console.log(`Yum, ${this.food} is delicious!`);
 };
-
